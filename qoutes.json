@@ -1,0 +1,72 @@
+{
+    "Love": [
+        {
+            "title": "Eternal Love",
+            "quote": "Love is not an emotion, it's your very existence.",
+            "author": "Rumi"
+        },
+        {
+            "title": "Woods in Silence",
+            "quote": "The woods are lovely, dark, and deep, But I have promises to keep, And miles to go before I sleep, And miles to go before I sleep.",
+            "author": "Robert Frost"
+        },
+        {
+            "title": "Whispers of the Heart",
+            "quote": "Love is like the wind, you can't see it but you can feel it.",
+            "author": "Nicholas Sparks"
+        },
+    ],
+    "Poem": [
+        {
+            "title": "Woods in Silence",
+            "quote": "The woods are lovely, dark, and deep But I have promises to keep, And miles to go before I sleep And miles to go before I sleep.",
+            "author": "Robert Frost"
+        },
+        {
+            "title": "Dancing Daffodils",
+            "quote": "I wandered lonely as a cloud, That floats on high o'er vales and hills...",
+            "author": "William Wordsworth"
+        },
+        {
+            "title": "Fools in love",
+            "quote": "A boy was dating a girl who always hurt him. One day, she broke up with him and told him, 'I don't ever want to see you again.' A few months later, the girl had a change of heart. She realized that she loved the boy, so she went back and said to him, 'Give me just one more chance. I love and I need you. I promise that I will never hurt you again.' But the boy just laughed and said to her, 'Only a fool would take back someone who hurt them so much.' The girl felt hopeless and began to cry, but the boy put his arms around her, held her tightly and said, '...and I am one of those fools.'",
+            "author": "Sexy Shana"
+        },
+    ],
+    "Nature": [
+        {
+            "title": "Nature's Bounty",
+            "quote": "In every walk with nature one receives far more than he seeks.",
+            "author": "John Muir"
+        },
+        {
+            "title": "Wisdom of the Wild",
+            "quote": "Look deep into nature, and then you will understand everything better.",
+            "author": "Albert Einstein"
+        }
+    ],
+    "Motivation": [
+        {
+            "title": "Believe in Yourself",
+            "quote": "Believe you can and you're halfway there.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "title": "Seize the Day",
+            "quote": "Your time is limited, don't waste it living someone else's life.",
+            "author": "Steve Jobs"
+        }
+    ],
+    "Life": [
+        {
+            "title": "Simplicity of Life",
+            "quote": "Life is really simple, but we insist on making it complicated.",
+            "author": "Confucius"
+        },
+        {
+            "title": "Life's Unpredictable Journey",
+            "quote": "Life is what happens when you're busy making other plans.",
+            "author": "John Lennon"
+        },
+    ]
+}
